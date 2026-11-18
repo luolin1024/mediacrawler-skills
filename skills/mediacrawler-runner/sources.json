@@ -1,0 +1,6 @@
+{
+  "mediacrawler": {
+    "url": "https://github.com/luolin1024/MediaCrawler",
+    "note": "默认安装源（脱敏改造版，含作者 ID 匿名化与昵称打码）。可用 --source 临时覆盖为任意兼容实现的 git URL。"
+  }
+}
